@@ -1,0 +1,11 @@
+root:x:0:root
+adm:x:4:cynux
+wheel:x:10:cynux
+network:x:18:cynux
+storage:x:21:cynux
+power:x:23:cynux
+audio:x:15:cynux
+video:x:16:cynux
+scanner:x:20:cynux
+optical:x:22:cynux
+users:x:985:
